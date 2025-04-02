@@ -1,6 +1,6 @@
 # E-COMMERCE
 
-A Front-End JavaScript application built with [React.js] , [Node.js] and [MongoDB] . 
+A Full-Stack JavaScript application built with [React.js] , [Node.js] and [MongoDB] . 
 eCommerce that allows you to send payment via Stripe.
 
 ## Features
